@@ -1,0 +1,12 @@
+path: D:\\003__AIR\\002__project_infrared_detect\\00__dataset_infrared # dataset root dir
+train: images\\train
+val: images\\val
+test:
+
+# Classes
+names:
+  1: person
+  2: bicycle
+  3: car
+  6: bus
+  7: train
